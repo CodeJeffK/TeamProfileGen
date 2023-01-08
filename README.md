@@ -22,7 +22,7 @@ information from user input. This project uses the Inquirer package for user pro
 ## Usage
 Here is a screenshot of the team profile generator
 
-![](./dist/screenshot.PNG)
+![](./dist/screenshot.png)
   
 ## Questions
 Any Questions? Please reachout to me at jkasahara206@gmail.com
